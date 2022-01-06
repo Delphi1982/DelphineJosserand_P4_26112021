@@ -20,6 +20,10 @@ a:hover {
     font-weight: bold;
 }
 
+h1, h2, h3{
+    font-weight: bold !important;
+}
+
 p, .text-center, .col-sm-12  
 {
     font-family: "helvetica";
@@ -813,7 +817,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #F7B450;
+    background: #ff6938;
     color: #FFFFFF!important;
 }
 
